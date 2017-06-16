@@ -5,7 +5,7 @@ A collection of Homebrew Formulas not worthy enough for Homebrew core.
 ## Installation
 
 ```
-brew tap sudoash/sudoash
+brew tap sudoash/tap
 ```
 
 ## Formulas
