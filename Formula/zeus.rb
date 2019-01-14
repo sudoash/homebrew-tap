@@ -1,9 +1,9 @@
 class Zeus < Formula
   desc "Facilitates interaction between docker, docker-machine and docker-compose"
   homepage "https://github.com/sudoash/zeus"
-  url "https://github.com/sudoash/zeus/archive/0.5.tar.gz"
-  version "0.5"
-  sha256 "71a7742619e49996686cf8a7ac95f0355d51f11ecf014e05a2d0c7ea6c67125e"
+  url "https://github.com/sudoash/zeus/archive/1.0.0.tar.gz"
+  version "1.0.0"
+  sha256 "a756781ddb4ea3753407ac2a7abb6f68f5b220baba1dd6063ff4130d0d6ce3f0"
 
   def install
     bin.install "zeus" => "zeus"
